@@ -38,6 +38,7 @@ Para saber mais sobre o projeto, acesse o link do diário de bordo do Perguntril
 - **Fellipe Borsato**  
   [GitHub](https://github.com/Fellipe-Borsato) 
 - **Lucas Mendonça**  
+  [LinkedIn](https://www.linkedin.com/in/lucas-mendon%C3%A7a-6555ba3a0/)
 - **Kauã Ribeiro** - Líder  
   [LinkedIn](https://www.linkedin.com/in/kaua-ribeiro17/) | [GitHub](https://github.com/Kauakim)  
 - **Luiz Fernando**  
@@ -47,3 +48,4 @@ Para saber mais sobre o projeto, acesse o link do diário de bordo do Perguntril
 
 **Agradecimentos**  
 O projeto contou com o apoio crucial da **ETE-FMC**, com orientação do professor **José Manoel**.
+
